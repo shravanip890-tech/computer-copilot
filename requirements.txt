@@ -1,0 +1,13 @@
+openai
+SpeechRecognition
+PyAudio
+pyttsx3
+PyAutoGUI
+wikipedia
+opencv-python
+numpy
+mediapipe
+mysql-connector-python
+pycaw
+comtypes
+python-dotenv
